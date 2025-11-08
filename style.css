@@ -7,3 +7,20 @@
     margin: 0 auto;
 } */
 
+.container {
+    width: 1440px;
+    height: 3921px;
+    border: 2px solid red;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+.content {
+    margin-left: 100px;
+}
+.title {
+    margin-left: 100px;
+}
+.box {
+    margin-left: 100px;
+}
